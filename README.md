@@ -43,4 +43,5 @@ After running the code section to generate circles, the final output looks like 
 
 ## Author
 
-This was created by ![Divya Thomas](https://www.linkedin.com/in/divya-thomas-sfu/)
+This was created by [Divya Thomas](https://www.linkedin.com/in/divya-thomas-sfu/)
+
