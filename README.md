@@ -15,13 +15,31 @@ The major output screens that you will see when you run the python file can be s
 
 ### Square
 
-Explain what these tests test and why
+After running the code section to generate squares, the final output looks like this:
+
+![Square output](./worldofshapes2.PNG)
+
 
 ### Triangles
-Explain what these tests test and why
+
+After running the code section to generate triangles, the final output looks like this:
+
+![Triangles output](./worldofshapes1.PNG)
+
 
 ### Rectangles
-Explain what these tests test and why
+
+After running the code section to generate rectangles, the final output looks like this:
+
+![Rectangles output](./worldofshapes1.PNG)
+
 
 ### Circles
-Explain what these tests test and why
+
+After running the code section to generate circles, the final output looks like this:
+
+![Circles output](./worldofshapes1.PNG)
+
+
+##Author
+![Divya Thomas](https://www.linkedin.com/in/divya-thomas-sfu/)
