@@ -31,14 +31,14 @@ After running the code section to generate triangles, the final output looks lik
 
 After running the code section to generate rectangles, the final output looks like this:
 
-![Rectangles output](./worldofshapes1.PNG)
+![Rectangles output](./worldofshapes4.PNG)
 
 
 ### Circles
 
 After running the code section to generate circles, the final output looks like this:
 
-![Circles output](./worldofshapes1.PNG)
+![Circles output](./worldofshapes3.PNG)
 
 
 ##Author
