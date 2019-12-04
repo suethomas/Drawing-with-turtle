@@ -41,6 +41,6 @@ After running the code section to generate circles, the final output looks like 
 ![Circles output](./worldofshapes3.PNG)
 
 
-##Author
+## Author
 
 This was created by ![Divya Thomas](https://www.linkedin.com/in/divya-thomas-sfu/)
